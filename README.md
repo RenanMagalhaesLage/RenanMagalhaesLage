@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004D98&size=35&center=true&vCenter=true&width=1000&lines=Oiee,+Eu+sou+o+Renan+Magalhães+Lage;Estudante+de+Ciência+da+Computação;Bem+Vindo+ao+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004D98&size=35&center=true&vCenter=true&width=1000&lines=Oiee,+Eu+sou+o+Renan+Magalhães+Lage;Estudante+de+Ciência+da+Computação;Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
