@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=eeaa26&color=0d1117">
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=eeaa26&color=0d1117">
+  
   
   <h3>Linguagens:</h3>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=eeaa26&color=0d1117">
