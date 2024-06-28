@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenanMagalhaesLage&show_icons=true&count_private=true&hide_border=true&title_color=eeaa26&icon_color=f5d11d&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Renan Magalhães github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMagalhaesLage&layout=compact&hide_border=true&title_color=eeaa26&text_color=ff91a4&bg_color=0d1117&hide=ShaderLab,Hack,HLSL,Makefile,Yacc&langs_count=8&exclude_repo=Site-Pessoal-WordPress" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMagalhaesLage&layout=compact&hide_border=true&title_color=eeaa26&text_color=ff91a4&bg_color=0d1117&hide=ShaderLab,Hack,HLSL,Makefile,Yacc,EJS&langs_count=8&exclude_repo=Site-Pessoal-WordPress" />
 </div>
 <br>
 
