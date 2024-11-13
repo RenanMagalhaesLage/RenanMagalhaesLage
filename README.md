@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=eeaa26&color=0d1117">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=eeaa26&color=0d1117">
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=eeaa26&color=0d1117">
