@@ -6,12 +6,6 @@
 </div>
 <br>
 
-
-<div align="center"> 
-    <a href="https://www.linkedin.com/in/renanmagalh%C3%A3es/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-  <a href = "mailto:renanlage50@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-</div>
-
 <hr>
 
 <div > 
